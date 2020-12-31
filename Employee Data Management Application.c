@@ -5,7 +5,7 @@
 //	Project Name	        : Employee Data Management Application      //
 //	Language		: C language.				    //
 //	Lines Of Codes	        : 390				            //
-//	Menu driven		: Yes					    //
+//	Menu driven		: Yes.					    //
 //								            //
 //////////////////////////////////////////////////////////////////////////////
 
